@@ -2,10 +2,18 @@
 header{
     padding: 20px 0px;
     text-align: center;
-    background-color: seagreen;
+    background-color: rgb(235, 91, 91);
 }
 header h1{
     text-transform: uppercase;
     color: white;
     letter-spacing: 3px;
+    
+}
+#madeBy{ 
+    text-transform: capitalize;
+    display: block;
+    color: white;
+    font-weight: normal;
+    
 }
